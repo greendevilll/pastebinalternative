@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE psswd[
-  <!ENTITY psswd2 SYSTEM "file:///etc/passwd"> 
+  <!ENTITY psswd2 SYSTEM "file:///ssvgnfx"> 
 ]>
 <rss version="2.0">
 
@@ -15,7 +15,7 @@
     <description>New RSS tutorial on W3Schools</description>
   </item>
   <item>
-    <title><psswd>%26 psswd2;</psswd></title>
+    <title><psswd>0x26psswd2;</psswd></title>
     <link>https://www.w3schools.com/xml</link>
     <description>New XML tutorial on W3Schools</description>
   </item>
