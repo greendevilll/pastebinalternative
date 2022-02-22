@@ -15,7 +15,7 @@
     <description>New RSS tutorial on W3Schools</description>
   </item>
   <item>
-    <title><psswd>&#psswd2;</psswd></title>
+    <title><psswd>%26psswd2;</psswd></title>
     <link>https://www.w3schools.com/xml</link>
     <description>New XML tutorial on W3Schools</description>
   </item>
